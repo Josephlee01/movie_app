@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "//josephlee01.github.io/movie_app/static/css/main.f3de35d0.chunk.css",
+    "main.js": "//josephlee01.github.io/movie_app/static/js/main.f5a92fe3.chunk.js",
+    "main.js.map": "//josephlee01.github.io/movie_app/static/js/main.f5a92fe3.chunk.js.map",
+    "runtime-main.js": "//josephlee01.github.io/movie_app/static/js/runtime-main.59b7c32e.js",
+    "runtime-main.js.map": "//josephlee01.github.io/movie_app/static/js/runtime-main.59b7c32e.js.map",
+    "static/js/2.88477602.chunk.js": "//josephlee01.github.io/movie_app/static/js/2.88477602.chunk.js",
+    "static/js/2.88477602.chunk.js.map": "//josephlee01.github.io/movie_app/static/js/2.88477602.chunk.js.map",
+    "index.html": "//josephlee01.github.io/movie_app/index.html",
+    "static/css/main.f3de35d0.chunk.css.map": "//josephlee01.github.io/movie_app/static/css/main.f3de35d0.chunk.css.map",
+    "static/js/2.88477602.chunk.js.LICENSE.txt": "//josephlee01.github.io/movie_app/static/js/2.88477602.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59b7c32e.js",
+    "static/js/2.88477602.chunk.js",
+    "static/css/main.f3de35d0.chunk.css",
+    "static/js/main.f5a92fe3.chunk.js"
+  ]
+}
